@@ -1,0 +1,8 @@
+[submodule "Quake3e"]
+	path = Quake3e
+	url = https://github.com/briancullinan/Quake3e
+	branch = hard-static-linking
+[submodule "baseq3a"]
+	path = baseq3a
+	url = https://github.com/briancullinan/baseq3a
+	branch = hard-static-linking
